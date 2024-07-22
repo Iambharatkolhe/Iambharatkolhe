@@ -13,12 +13,12 @@
 <h2 align ="center">⚡️Stats⚡️</h2>
 <!-- GitHub Stats -->
 <a href="http://www.github.com/SammyBoiii07">
-    <img src="https://github-readme-stats.vercel.app/api?username=SammyBoiii07&show_icons=true&theme=dark&bg_color=1c1917&title_color=0891b2&text_color=ffffff&icon_color=0891b2&count_private=true&border_radius=20" alt="GitHub Stats" />
+    <img src="https://github-readme-stats.vercel.app/api?username=Iambharatkolhe &show_icons=true&theme=dark&bg_color=1c1917&title_color=0891b2&text_color=ffffff&icon_color=0891b2&count_private=true&border_radius=20" alt="GitHub Stats" />
 </a>
 
 <!-- GitHub Contributions Graph -->
 <a href="http://www.github.com/SammyBoiii07">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=SammyBoiii07&theme=dark&background=1c1917&stroke=0891b2&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&border_radius=20" alt="GitHub Streak Stats" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Iambharatkolhe &theme=dark&background=1c1917&stroke=0891b2&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&border_radius=20" alt="GitHub Streak Stats" />
 </a>
 
 
@@ -30,7 +30,7 @@
 </div>
 <hr>
 <div id="header" align="center">
-  <img src="https://komarev.com/ghpvc/?username=SammyBoii07&style=for-the-badge&color=orange" alt=""/>
+  <img src="https://komarev.com/ghpvc/?username=Iambharatkolhe&style=for-the-badge&color=orange" alt=""/>
 </div>
 
 <hr>
